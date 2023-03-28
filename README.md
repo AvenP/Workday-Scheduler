@@ -5,6 +5,9 @@ https://avenp.github.io/Workday-Scheduler/
 
 
 I know when I start working in groups I need to start naming the branches “features”.
+
+Uploaded starter code to main branch
+
 Created html-work branch.
 Added rest of the time slots.
 
