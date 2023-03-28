@@ -1,5 +1,8 @@
 I used replays of class to help me with this task.
 
+live page link:
+https://avenp.github.io/Workday-Scheduler/
+
 
 I know when I start working in groups I need to start naming the branches “features”.
 Created html-work branch.
@@ -19,4 +22,5 @@ Created java-work branch.
 
 Added 2% padding to body in css 
 
+![image](https://user-images.githubusercontent.com/123212035/228123363-ba966229-f730-42e9-91c7-53f9172a10da.png)
 
